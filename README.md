@@ -1,6 +1,6 @@
 # i-Voting
 
-Secure, trustful and anonymity backend internet voting protocol and implantation
+Secure, trustful and anonymity backend internet voting protocol and implantation POC
 
 ## How it works?
 
@@ -40,3 +40,8 @@ The main server counts the votes and take the majority of the vote for each made
 * Only The main server can get the true votes, but he can lie 
 * With enough present of Ballots the election can be compromise
 * If we mix data from the Ballot server and the main server we can know who vote for who 
+
+## Ways to improve security
+
+* Real ID authentication
+* Prevent everybody to be a Ballot - only in country IP or only party computers or private componise
