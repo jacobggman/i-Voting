@@ -45,6 +45,6 @@ The main server counts the votes and take the majority of the vote for each made
 
 * Real ID authentication
 * Prevent everybody to be a Ballot - only in country IP or only party computers or private componise
-* Same packets size of untracking of types of server
+* Same packets size or random sizes for untracking of types of server
 * Random timing for ballots for untracking that is a ballot server
 * Force using SSL
