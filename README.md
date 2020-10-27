@@ -44,7 +44,7 @@ The main server counts the votes and take the majority of the vote for each made
 ## Ways to improve security
 
 * Real ID authentication
-* Prevent everybody to be a Ballot - only in country IP or only party computers or private componise
+* Prevent everybody to be a Ballot - not the same ip and only in country IP or only party computers or private componise
 * Same packets size or random sizes for untracking of types of server
 * Random timing for ballots for untracking that is a ballot server
 * Force using SSL
